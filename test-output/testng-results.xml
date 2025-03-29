@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-28T19:36:58 IST" name="Default suite" finished-at="2025-03-28T19:39:00 IST" duration-ms="121472">
+    <groups>
+    </groups>
+    <test started-at="2025-03-28T19:36:58 IST" name="Default test" finished-at="2025-03-28T19:39:00 IST" duration-ms="121472">
+      <class name="test.Mb_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:36:58 IST" name="setup" finished-at="2025-03-28T19:37:02 IST" duration-ms="3385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:02 IST" name="openurl" finished-at="2025-03-28T19:37:09 IST" duration-ms="7338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="addcart()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:09 IST" name="addcart" finished-at="2025-03-28T19:37:34 IST" duration-ms="25027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcart -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:34 IST" name="openurl" finished-at="2025-03-28T19:37:39 IST" duration-ms="4601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="dropdown()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:39 IST" name="dropdown" finished-at="2025-03-28T19:37:45 IST" duration-ms="6765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:46 IST" name="openurl" finished-at="2025-03-28T19:37:50 IST" duration-ms="4598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="logoverify()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:50 IST" name="logoverify" finished-at="2025-03-28T19:37:50 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoverify -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:50 IST" name="openurl" finished-at="2025-03-28T19:37:55 IST" duration-ms="4665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="mouseover()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:55 IST" name="mouseover" finished-at="2025-03-28T19:37:59 IST" duration-ms="3733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseover -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:37:59 IST" name="openurl" finished-at="2025-03-28T19:38:03 IST" duration-ms="4464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="screenshottest()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:03 IST" name="screenshottest" finished-at="2025-03-28T19:38:03 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshottest -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:03 IST" name="openurl" finished-at="2025-03-28T19:38:09 IST" duration-ms="5275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="scrolldown()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:09 IST" name="scrolldown" finished-at="2025-03-28T19:38:10 IST" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrolldown -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:10 IST" name="openurl" finished-at="2025-03-28T19:38:15 IST" duration-ms="5324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="test_windowhandle()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:15 IST" name="test_windowhandle" finished-at="2025-03-28T19:38:24 IST" duration-ms="8712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_windowhandle -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:24 IST" name="openurl" finished-at="2025-03-28T19:38:28 IST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="testcontent()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:28 IST" name="testcontent" finished-at="2025-03-28T19:38:28 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcontent -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:28 IST" name="openurl" finished-at="2025-03-28T19:38:32 IST" duration-ms="4078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="testlogin()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:32 IST" name="testlogin" finished-at="2025-03-28T19:38:54 IST" duration-ms="22063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:38:54 IST" name="openurl" finished-at="2025-03-28T19:39:00 IST" duration-ms="5826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="testtitle()[pri:0, instance:test.Mb_Test@368f2016]" started-at="2025-03-28T19:39:00 IST" name="testtitle" finished-at="2025-03-28T19:39:00 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testtitle -->
+      </class> <!-- test.Mb_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
